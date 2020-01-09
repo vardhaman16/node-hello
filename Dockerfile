@@ -4,6 +4,6 @@ FROM node:7-onbuild
 LABEL maintainer "vardpat1@in.ibm.com"
 
 # tell docker what port to expose
-EXPOSE 8000
+EXPOSE 80
 
 CMD ["npm", "start"]
