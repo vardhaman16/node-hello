@@ -11,10 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/fhinkel/nodejs-hello-world.git"
   },
-  "author": "fhinkel",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/fhinkel/nodejs-hello-world/issues"
-  },
-  "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme"
+  "author": "vardhaman16",
+  "license": "MIT"
 }
